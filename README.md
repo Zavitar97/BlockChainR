@@ -1,7 +1,7 @@
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This Project Demonstrates a Basic Hardhat Use Case. This Comes With a Sample Contract, a Test For That Contract, and a Script That Deploys That Contract.
 
-Try running some of the following tasks:
+Try Running Some Of The Following Tasks:
 
 ```shell
 npx hardhat help
